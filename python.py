@@ -7,3 +7,7 @@ while True:
 while True:
     print("hello worldqw")
     break
+
+while True:
+    print("hello worldqw")
+    break
